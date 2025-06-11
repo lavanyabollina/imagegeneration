@@ -13,10 +13,6 @@ Whether you're an artist, developer, or curious user, this app provides a hands-
 
 ![App Screenshot](./gemini-native-image.png)
 Create and activate a virtual environment (optional but recommended)
-
-bash
-Copy
-Edit
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install the dependencies
